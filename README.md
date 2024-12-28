@@ -44,17 +44,17 @@ This project focuses on predicting car prices by comparing various machine learn
 ---
 
 ## Project Workflow
-1. Load and preprocess the dataset.
-2. Visualize data distributions and relationships.
-3. Train machine learning models:
+1. Loaded and preprocessed the dataset.
+2. Visualized data distributions and relationships.
+3. Trained machine learning models:
    - Linear Regression
    - Decision Tree
    - Random Forest
-   - Support Vector Regressor (SVR)
+   - Support Vector Machines (SVM)
    - k-Nearest Neighbors (KNN)
    - XGBoost
-4. Implement and train a deep learning model using TensorFlow/Keras.
-5. Evaluate models using metrics like Mean Squared Error (MSE) and R-squared score.
+4. Implemented and trained a deep learning model using TensorFlow/Keras.
+5. Evaluated models using metrics like Mean Squared Error (MSE) and R-squared score.
 
 ---
 
