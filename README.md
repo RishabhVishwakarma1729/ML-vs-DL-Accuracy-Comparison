@@ -14,14 +14,11 @@ This project focuses on predicting car prices by comparing various machine learn
 - [Model Comparisons](#model-comparisons)
 - [How to Run](#how-to-run)
 - [Results](#results)
-- [Future Enhancements](#future-enhancements)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
 
 ---
 
 ## Dataset
-- **Source:** Custom dataset provided in CSV format.
+- **Source:** Kaggle
 - **Attributes:**
   - `Car_Name`: Name of the car.
   - `Year`: Year of manufacture.
@@ -76,37 +73,17 @@ This project focuses on predicting car prices by comparing various machine learn
 ## Model Comparisons
 | Model                        | Mean Squared Error | R-squared Score |
 |------------------------------|--------------------|-----------------|
-| Linear Regression            | TBD                | TBD             |
-| Decision Tree Regressor      | TBD                | TBD             |
-| Random Forest Regressor      | TBD                | TBD             |
-| Support Vector Regressor     | TBD                | TBD             |
-| k-Nearest Neighbors Regressor| TBD                | TBD             |
-| XGBoost Regressor            | TBD                | TBD             |
-| Deep Learning Model          | TBD                | TBD             |
+| Linear Regression            | 3.7578             | 0.8291          |
+| Decision Tree Regressor      | 1.1609             | 0.9480          |
+| Random Forest Regressor      | 1.1268             | 0.9539          |
+| Support Vector Regressor     | 4.0447             | 0.9539          |
+| k-Nearest Neighbors Regressor| 3.6691             | 0.8420          |
+| XGBoost Regressor            | 0.9739             | 0.9578          |
+| Deep Learning Model          | 0.5042             | 0.9811          |
 
 ---
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/car-price-prediction.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd car-price-prediction
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-5. Open and execute the notebook `Comparative Analysis of Machine Learning and Deep Learning Models for Car Price Prediction.ipynb`.
-
----
 
 ## Results
-- **Best Performing Model:** ANN
+- **Best Performing Model:** Artificial Neural Network
 
