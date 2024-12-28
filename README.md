@@ -5,18 +5,6 @@ This project focuses on predicting car prices by comparing various machine learn
 
 ---
 
-## Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Project Workflow](#project-workflow)
-- [Model Comparisons](#model-comparisons)
-- [How to Run](#how-to-run)
-- [Results](#results)
-
----
-
 ## Dataset
 - **Source:** Kaggle
 - **Attributes:**
